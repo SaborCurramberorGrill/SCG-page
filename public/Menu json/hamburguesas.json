@@ -1,0 +1,52 @@
+{
+    "hamburguesas": [
+        {
+            "id": 1,
+            "title": "Hamburguesa La Currambera",
+            "desc": "Pan brioche sellado con mantequilla y ajo, lechuga crespa, tomate, cebolla grille con tocineta, queso asado, 125 gr de carne molida, 2 lonjas de salami ahumado.",
+            "price": "Precio a definir"
+        },
+        {
+            "id": 2,
+            "title": "Hamburguesa Caribeña",
+            "desc": "Pan brioche sellado con mantequilla y ajo, tomate, lechuga crespa, cebolla grille, salsa de cocada, 125 gr de carne molida, salsa de la casa.",
+            "price": "Precio a definir"
+        },
+        {
+            "id": 3,
+            "title": "Hamburguesa Mr. Lucho",
+            "desc": "Pan brioche sellado con mantequilla y ajo, lechuga, tomate, queso mozzarella, queso americano, tocineta, salsa BBQ, miel y salsa de la casa, 125 gr de carne.",
+            "price": "Precio a definir"
+        },
+        {
+            "id": 4,
+            "title": "Hamburguesa La Básica",
+            "desc": "Pan brioche sellado con mantequilla y ajo, lechuga crespa, tomate, cebolla grille con tocineta, queso asado, 125 gr de pollo, 2 lonjas de salami ahumado.",
+            "price": "Precio a definir"
+        },
+        {
+            "id": 5,
+            "title": "Hamburguesa La Cambambera",
+            "desc": "Pan brioche sellado con mantequilla y ajo, tomate, lechuga crespa, cebolla grille, salsa de cocada, 125 gr de pollo, salsa de la casa.",
+            "price": "Precio a definir"
+        },
+        {
+            "id": 6,
+            "title": "Hamburguesa Chicken Swift",
+            "desc": "Pan brioche sellado con mantequilla y ajo, lechuga, tomate, queso mozzarella, queso americano, tocineta, salsa BBQ, miel y salsa de la casa, 125 gr de pollo.",
+            "price": "Precio a definir"
+        },
+        {
+            "id": 7,
+            "title": "Hamburguesa Doble Beacon",
+            "desc": "Pan brioche sellado con mantequilla y ajo, 250 gr de carne, 2 lonjas de tocineta, cebolla grillada.",
+            "price": "Precio a definir"
+        },
+        {
+            "id": 8,
+            "title": "Choriburger",
+            "desc": "Pan brioche sellado con mantequilla y ajo, lechuga crespa, tomate, queso americano, 125 gr de carne, 1 chorizo santandereano, salsa de la casa.",
+            "price": "Precio a definir"
+        }
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "entradas": [
+        {
+            "id": 1,
+            "title": "Canastas Crocantes de Patacón Verde",
+            "desc": "Canastillas rellenas de pollo parrillado acompañadas de guacamole fresco y queso crema de chef.",
+            "price": "8000"
+        },
+        {
+            "id": 2,
+            "title": "Maduro Currumberro",
+            "desc": "Maduro relleno de una mezcla de cuatro quesos con tocino ahumado y cebollín.",
+            "price": "8000"
+        },
+        {
+            "id": 3,
+            "title": "Picada Currumbera",
+            "desc": "Chorizo de cerdo acompañado de bollo y aderezo de chimichurri.",
+            "price": "8000"
+        },
+        {
+            "id": 4,
+            "title": "Francesas Curramberas",
+            "desc": "Papas a la francesa acompañadas de tocino ahumado cubiertas con queso cheddar y cebollín espolvoreado.",
+            "price": "8000"
+        },
+        {
+            "id": 5,
+            "title": "Mini Pinchos",
+            "desc": "3 opciones a elegir entre pollo, carne, mixto o combinado, acompañados de chimichurri de la casa.",
+            "price": "8000"
+        },
+        {
+            "id": 6,
+            "title": "Palito Currumbero de Queso",
+            "desc": "4 palitos de queso apanados acompañados de salsa de la casa.",
+            "price": "8000"
+        }
+    ]
+}

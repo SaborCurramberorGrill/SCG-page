@@ -1,0 +1,5 @@
+@media (width < 768px) {
+  main {
+    padding-top: 6rem;
+  }
+}

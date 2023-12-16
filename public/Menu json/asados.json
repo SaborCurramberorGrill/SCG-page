@@ -1,0 +1,42 @@
+{
+    "asados": [
+        {
+            "id": 1,
+            "title": "Carne Asada (Baby Beefs)",
+            "desc": "250 gr de carne asada de baby beef con una guarnición opcional: bollo costeño o patacón y cascos de papas (opcional).",
+            "price": "Precio a definir"
+        },
+        {
+            "id": 2,
+            "title": "Pechuga Asada (Filete)",
+            "desc": "200 gr de pechuga asada (filete) con una guarnición opcional: bollo costeño o patacón y cascos de papas (opcional).",
+            "price": "Precio a definir"
+        },
+        {
+            "id": 3,
+            "title": "Lomo de Cerdo",
+            "desc": "250 gr de lomo de cerdo con una guarnición opcional: bollo costeño o patacón y cascos de papas (opcional).",
+            "price": "Precio a definir"
+        },
+        {
+            "id": 4,
+            "title": "Punta Gorda",
+            "desc": "300 gr de punta gorda con una guarnición opcional: bollo costeño o patacón y cascos de papas (opcional).",
+            "price": "Precio a definir"
+        }
+    ],
+    "parrillas": [
+        {
+            "id": 5,
+            "title": "Parrilla Combinada (3-4 personas)",
+            "desc": "200 gr de pollo apanado, 200 gr de carne parrillada, 2 chorizos de cerdo parrillados, 2 butifarras parrilladas, ensalada fresca costeña (lechuga, tomate, cebolla roja encurtida y aguacate), 1 bollo blanco y 2 patacones.",
+            "price": "Precio a definir"
+        },
+        {
+            "id": 6,
+            "title": "Parrilla Combinada (2-3 personas)",
+            "desc": "100 gr de pollo apanado, 100 gr de carne parrillada, 1 chorizo de cerdo parrillado, 1 butifarra parrillada, ensalada fresca costeña (lechuga, tomate, cebolla roja encurtida y aguacate), 1 bollo blanco y 1 patacón.",
+            "price": "Precio a definir"
+        }
+    ]
+}

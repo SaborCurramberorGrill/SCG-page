@@ -1,0 +1,89 @@
+{
+    "adicionales": [
+        {
+            "id": 1,
+            "title": "Carne Parrillada",
+            "price": 15000
+        },
+        {
+            "id": 2,
+            "title": "Pechuga Parrilla",
+            "price": 12000
+        },
+        {
+            "id": 3,
+            "title": "Jamón",
+            "price": 8000
+        },
+        {
+            "id": 4,
+            "title": "Queso Mozzarella",
+            "price": 10000
+        },
+        {
+            "id": 5,
+            "title": "Piña Trocitos",
+            "price": 5000
+        },
+        {
+            "id": 6,
+            "title": "Tocineta",
+            "price": 7000
+        },
+        {
+            "id": 7,
+            "title": "Carne de Hamburguesa",
+            "price": 13000
+        },
+        {
+            "id": 8,
+            "title": "Pico de Gallo",
+            "price": 6000
+        },
+        {
+            "id": 9,
+            "title": "Guacamole",
+            "price": 9000
+        },
+        {
+            "id": 10,
+            "title": "Bollo",
+            "price": 4000
+        },
+        {
+            "id": 11,
+            "title": "Patacones",
+            "price": 5500
+        },
+        {
+            "id": 12,
+            "title": "Chorizo",
+            "price": 10000
+        },
+        {
+            "id": 13,
+            "title": "Butifarra",
+            "price": 8000
+        },
+        {
+            "id": 14,
+            "title": "Maíz",
+            "price": 3000
+        },
+        {
+            "id": 15,
+            "title": "Chimichurri de la Casa",
+            "price": 4500
+        },
+        {
+            "id": 16,
+            "title": "Salsa de la Casa",
+            "price": 4000
+        },
+        {
+            "id": 17,
+            "title": "Ensalada Costeña",
+            "price": 6500
+        }
+    ]
+}

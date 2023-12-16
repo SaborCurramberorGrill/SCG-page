@@ -1,0 +1,136 @@
+{
+    "limonadas": [
+        {
+            "id": 1,
+            "title": "Limonada de Coco",
+            "price": 8000
+        },
+        {
+            "id": 2,
+            "title": "Limonada Cerezada",
+            "price": 7500
+        },
+        {
+            "id": 3,
+            "title": "Limonada de Yerbahuena",
+            "price": 7000
+        },
+        {
+            "id": 4,
+            "title": "Limonada Natural",
+            "price": 6500
+        }
+    ],
+    "cocteles": [
+        {
+            "id": 5,
+            "title": "Sex on the Beach",
+            "ingredientes": [
+                "Hielo, ",
+                "Vodka, ",
+                "Licor de Durazno, ",
+                "Jugo de Naranja, ",
+                "Granadina."
+            ],
+            "price": 12000
+        },
+        {
+            "id": 6,
+            "title": "Margarita",
+            "ingredientes": [
+                "Tequila, ",
+                "Triple Sec, ",
+                "Jugo de Limón, ",
+                "Sirope de Azúcar."
+            ],
+            "price": 10000
+        },
+        {
+            "id": 7,
+            "title": "Cosmopolitan",
+            "ingredientes": [
+                "Hielo, ",
+                "Vodka, ",
+                "Triple Sec, ",
+                "Jugo de Limón, ",
+                "Jugo de Arándano."
+            ],
+            "price": 11000
+        },
+        {
+            "id": 8,
+            "title": "Piña Colada",
+            "ingredientes": [
+                "Ron Blanco, ",
+                "Jugo de Piña, ",
+                "Crema de Coco, ",
+                "Crema Doble, ",
+                "Ron con Coco."
+            ],
+            "price": 9500
+        },
+        {
+            "id": 9,
+            "title": "Mai Tai",
+            "ingredientes": [
+                "Ron Blanco, ",
+                "Curacao de Naranja, ",
+                "Jugo de Limón, ",
+                "Sirope de Almendras."
+            ],
+            "price": 10500
+        }
+    ],
+    "bebidas": [
+        {
+            "id": 10,
+            "title": "Aguila Negra",
+            "price": 5000
+        },
+        {
+            "id": 11,
+            "title": "Aguila Light",
+            "price": 4500
+        },
+        {
+            "id": 12,
+            "title": "Corona",
+            "price": 6000
+        },
+        {
+            "id": 13,
+            "title": "Stella",
+            "price": 5500
+        },
+        {
+            "id": 14,
+            "title": "Heineken",
+            "price": 6500
+        },
+        {
+            "id": 15,
+            "title": "Coca-Cola",
+            "price": 3000
+        },
+        {
+            "id": 16,
+            "title": "Postobon",
+            "price": 2500
+        },
+        {
+            "id": 17,
+            "title": "Hatsu",
+            "price": 2800
+        },
+        {
+            "id": 18,
+            "title": "Cuatro",
+            "price": 2700
+        },
+        {
+            "id": 19,
+            "title": "Sprite",
+            "price": 3200
+        }
+    ]
+}
