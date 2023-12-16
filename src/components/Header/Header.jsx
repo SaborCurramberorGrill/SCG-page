@@ -3,7 +3,7 @@ export function Header() {
     <header className="header">
       <div className="logo-container">
         <img
-          src="Logo.png"
+          src="logo.webp"
           className="logo"
           alt="logo"
         />

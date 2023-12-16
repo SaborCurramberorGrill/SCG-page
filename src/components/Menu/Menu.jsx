@@ -187,7 +187,7 @@ export function Menu() {
       <div>
         <Seccion
           title="Entradas"
-          img={'Portadas secciones/Entradas.svg'}
+          img={'Portadas secciones/Entradas.webp'}
         >
           {entradas.map((entrada) => (
             <Producto
@@ -201,7 +201,7 @@ export function Menu() {
 
         <Seccion
           title="Hamburguesas"
-          img={'Portadas secciones/Hamburguesas.svg'}
+          img={'Portadas secciones/Hamburguesas.webp'}
         >
           {hamburguesas.map((hamburguesa) => (
             <Producto
@@ -215,7 +215,7 @@ export function Menu() {
 
         <Seccion
           title="Salchipapas"
-          img={'Portadas secciones/Salchipapas.jpeg'}
+          img={'Portadas secciones/Salchipapas.webp'}
         >
           {salchipapas.map((salchipapa) => (
             <Producto
@@ -229,7 +229,7 @@ export function Menu() {
 
         <Seccion
           title="Perros Calientes"
-          img={'Portadas secciones/Perros Calientes.svg'}
+          img={'Portadas secciones/Perros-Calientes.webp'}
         >
           {perrosCalientes.map((perroCaliente) => (
             <Producto
@@ -257,7 +257,7 @@ export function Menu() {
 
         <Seccion
           title="Parrillas"
-          img={'Portadas secciones/Parrillas.avif'}
+          img={'Portadas secciones/Parrillas.webp'}
         >
           {parrillas.map((parrilla) => (
             <Producto
@@ -271,7 +271,7 @@ export function Menu() {
 
         <Seccion
           title="Pastas"
-          img={'Portadas secciones/Pastas.jpeg'}
+          img={'Portadas secciones/Pastas.webp'}
         >
           {pastas.map((pasta) => (
             <Producto
@@ -285,7 +285,7 @@ export function Menu() {
 
         <Seccion
           title="Menú Infantil"
-          img={'Portadas secciones/Menu infantil.jpeg'}
+          img={'Portadas secciones/Menu-infantil.webp'}
         >
           {menuInfantil.map((menu) => (
             <Producto
@@ -299,7 +299,7 @@ export function Menu() {
 
         <Seccion
           title="Bebidas"
-          img={'Portadas secciones/bebidas.jpg'}
+          img={'Portadas secciones/bebidas.webp'}
         >
           {limonadas.map((limonada) => (
             <Producto
@@ -327,7 +327,7 @@ export function Menu() {
 
         <Seccion
           title="Adicionales"
-          img={'Portadas secciones/Adiciones.jpg'}
+          img={'Portadas secciones/Adiciones.webp'}
         >
           {adiciones.map((adicione) => (
             <Producto
