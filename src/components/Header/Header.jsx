@@ -22,7 +22,7 @@ export function Header() {
         </a>
 
         <a
-          href="#"
+          href="https://wa.link/rb5j56"
           className="nav-link"
         >
           Contacto

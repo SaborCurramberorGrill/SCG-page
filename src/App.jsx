@@ -9,7 +9,7 @@ function App() {
       <Header />
       <Menu />
       <Flot
-        href=""
+        href="https://wa.link/rb5j56"
         src="whatsapp.png"
       />
     </>
