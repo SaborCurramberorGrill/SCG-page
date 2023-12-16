@@ -3,7 +3,7 @@ export function Header() {
     <header className="header">
       <div className="logo-container">
         <img
-          src="../../../public/logo.png"
+          src="Logo.png"
           className="logo"
           alt="logo"
         />
@@ -30,7 +30,7 @@ export function Header() {
         >
           <img
             className="icono"
-            src="../../../public/facebook.png"
+            src="facebook.png"
             alt=""
           />
         </a>
@@ -41,7 +41,7 @@ export function Header() {
         >
           <img
             className="icono"
-            src="../../../public/instagram.png"
+            src="instagram.png"
             alt=""
           />
         </a>

@@ -9,7 +9,7 @@ export function Menu() {
   useEffect(() => {
     const cargarEntradas = async () => {
       try {
-        const response = await fetch('../../../public/Menu json/entradas.json');
+        const response = await fetch('Menu json/entradas.json');
 
         if (!response.ok) {
           throw new Error('Error al cargar el JSON');
@@ -30,9 +30,7 @@ export function Menu() {
   useEffect(() => {
     const fetchData = async () => {
       try {
-        const response = await fetch(
-          '../../../public/Menu json/hamburguesas.json'
-        );
+        const response = await fetch('Menu json/hamburguesas.json');
 
         if (!response.ok) {
           throw new Error('Error al cargar el JSON');
@@ -53,9 +51,7 @@ export function Menu() {
   useEffect(() => {
     const fetchData = async () => {
       try {
-        const response = await fetch(
-          '../../../public/Menu json/salchipapas.json'
-        );
+        const response = await fetch('Menu json/salchipapas.json');
 
         if (!response.ok) {
           throw new Error('Error al cargar el JSON');
@@ -76,9 +72,7 @@ export function Menu() {
   useEffect(() => {
     const fetchData = async () => {
       try {
-        const response = await fetch(
-          '../../../public/Menu json/perrosCalientes.json'
-        );
+        const response = await fetch('Menu json/perrosCalientes.json');
 
         if (!response.ok) {
           throw new Error('Error al cargar el JSON');
@@ -100,7 +94,7 @@ export function Menu() {
   useEffect(() => {
     const fetchData = async () => {
       try {
-        const response = await fetch('../../../public/Menu json/asados.json');
+        const response = await fetch('Menu json/asados.json');
 
         if (!response.ok) {
           throw new Error('Error al cargar el JSON');
@@ -123,7 +117,7 @@ export function Menu() {
   useEffect(() => {
     const fetchData = async () => {
       try {
-        const response = await fetch('../../../public/Menu json/pastas.json');
+        const response = await fetch('Menu json/pastas.json');
 
         if (!response.ok) {
           throw new Error('Error al cargar el JSON');
@@ -147,7 +141,7 @@ export function Menu() {
   useEffect(() => {
     const fetchData = async () => {
       try {
-        const response = await fetch('../../../public/Menu json/bebidas.json');
+        const response = await fetch('Menu json/bebidas.json');
 
         if (!response.ok) {
           throw new Error('Error al cargar el JSON');
@@ -171,9 +165,7 @@ export function Menu() {
   useEffect(() => {
     const fetchData = async () => {
       try {
-        const response = await fetch(
-          '../../../public/Menu json/adiciones.json'
-        );
+        const response = await fetch('Menu json/adiciones.json');
 
         if (!response.ok) {
           throw new Error('Error al cargar el JSON');
@@ -195,7 +187,7 @@ export function Menu() {
       <div>
         <Seccion
           title="Entradas"
-          img={'../../../public/Portadas secciones/Entradas.svg'}
+          img={'Portadas secciones/Entradas.svg'}
         >
           {entradas.map((entrada) => (
             <Producto
@@ -209,7 +201,7 @@ export function Menu() {
 
         <Seccion
           title="Hamburguesas"
-          img={'../../../public/Portadas secciones/Hamburguesas.svg'}
+          img={'Portadas secciones/Hamburguesas.svg'}
         >
           {hamburguesas.map((hamburguesa) => (
             <Producto
@@ -223,7 +215,7 @@ export function Menu() {
 
         <Seccion
           title="Salchipapas"
-          img={'../../../public/Portadas secciones/Salchipapas.jpeg'}
+          img={'Portadas secciones/Salchipapas.jpeg'}
         >
           {salchipapas.map((salchipapa) => (
             <Producto
@@ -237,7 +229,7 @@ export function Menu() {
 
         <Seccion
           title="Perros Calientes"
-          img={'../../../public/Portadas secciones/Perros calientes.svg'}
+          img={'Portadas secciones/Perros Calientes.svg'}
         >
           {perrosCalientes.map((perroCaliente) => (
             <Producto
@@ -251,7 +243,7 @@ export function Menu() {
 
         <Seccion
           title="Asados"
-          img={'../../../public/Portadas secciones/Asados.Webp'}
+          img={'Portadas secciones/Asados.webp'}
         >
           {asados.map((asado) => (
             <Producto
@@ -265,7 +257,7 @@ export function Menu() {
 
         <Seccion
           title="Parrillas"
-          img={'../../../public/Portadas secciones/Parrillas.avif'}
+          img={'Portadas secciones/Parrillas.avif'}
         >
           {parrillas.map((parrilla) => (
             <Producto
@@ -279,7 +271,7 @@ export function Menu() {
 
         <Seccion
           title="Pastas"
-          img={'../../../public/Portadas secciones/Pastas.jpeg'}
+          img={'Portadas secciones/Pastas.jpeg'}
         >
           {pastas.map((pasta) => (
             <Producto
@@ -293,7 +285,7 @@ export function Menu() {
 
         <Seccion
           title="Menú Infantil"
-          img={'../../../public/Portadas secciones/Menu infantil.jpeg'}
+          img={'Portadas secciones/Menu infantil.jpeg'}
         >
           {menuInfantil.map((menu) => (
             <Producto
@@ -307,7 +299,7 @@ export function Menu() {
 
         <Seccion
           title="Bebidas"
-          img={'../../../public/Portadas secciones/Bebidas.jpg'}
+          img={'Portadas secciones/bebidas.jpg'}
         >
           {limonadas.map((limonada) => (
             <Producto
@@ -335,7 +327,7 @@ export function Menu() {
 
         <Seccion
           title="Adicionales"
-          img={'../../../public/Portadas secciones/Adiciones.jpg'}
+          img={'Portadas secciones/Adiciones.jpg'}
         >
           {adiciones.map((adicione) => (
             <Producto

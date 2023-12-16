@@ -10,7 +10,7 @@ function App() {
       <Menu />
       <Flot
         href=""
-        src="../public/whatsapp.png"
+        src="whatsapp.png"
       />
     </>
   );
