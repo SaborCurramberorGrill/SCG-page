@@ -4,31 +4,31 @@
             "id": 1,
             "title": "Salchipapa Sencilla",
             "desc": "200 gr de papa francesa, 90 gr de salchicha especial, lechuga crespa, queso costeño, tomate.",
-            "price": "Precio a definir"
+            "price": "10.900"
         },
         {
             "id": 2,
             "title": "Salchipapa Mixta",
             "desc": "200 gr de papa francesa, 90 gr de salchicha especial, lechuga crespa, queso costeño, tomate, 120 gr de carne y 120 gr de pechuga de pollo.",
-            "price": "Precio a definir"
+            "price": "22.000"
         },
         {
             "id": 3,
             "title": "Salchipapa Pollo",
             "desc": "200 gr de papa francesa, 90 gr de salchicha especial, lechuga crespa, queso costeño, tomate, 120 gr de pollo.",
-            "price": "Precio a definir"
+            "price": "18.000"
         },
         {
             "id": 4,
             "title": "Salchipapa Carne",
             "desc": "200 gr de papa francesa, 90 gr de salchicha especial, lechuga crespa, queso costeño, tomate, 120 gr de carne.",
-            "price": "Precio a definir"
+            "price": "18.000"
         },
         {
             "id": 5,
             "title": "Salchipapas para Compartir (2-3 personas)",
             "desc": "400 gr de papa francesa, 120 gr de pollo parrillado, 120 gr de carne parrillada, chorizo parrillado, butifarra parrillada, 180 gr de salchicha especial, gratinado con maíz.",
-            "price": "Precio a definir"
+            "price": "28.000"
         }
     ]
 }

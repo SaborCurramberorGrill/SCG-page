@@ -1,6 +1,6 @@
 import './Seccion.css';
 
-export function Seccion({ title, children, img }) {
+export function Seccion({ title, children, img, extra }) {
   return (
     <section>
       <div className="encabezado">
@@ -11,6 +11,7 @@ export function Seccion({ title, children, img }) {
             alt={title}
           />
         </div>
+        <p>{extra}</p>
       </div>
       <div className="children">{children}</div>
     </section>

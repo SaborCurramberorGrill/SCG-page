@@ -202,6 +202,7 @@ export function Menu() {
         <Seccion
           title="Hamburguesas"
           img={'Portadas secciones/Hamburguesas.webp'}
+          extra={'Puedes Agregar papas por $4000'}
         >
           {hamburguesas.map((hamburguesa) => (
             <Producto

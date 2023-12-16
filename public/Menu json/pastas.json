@@ -4,19 +4,19 @@
             "id": 1,
             "title": "Pastas Carbonara con Pollo",
             "desc": "Opción entre fettuccini, linguini, penne.",
-            "price": "Precio a definir"
+            "price": "27.000"
         },
         {
             "id": 2,
             "title": "Pastas Alfredo",
             "desc": "Opción entre fettuccini, linguini, penne.",
-            "price": "Precio a definir"
+            "price": "24.000"
         },
         {
             "id": 3,
             "title": "Pastas Boloñesa",
             "desc": "Opción entre fettuccini, linguini, penne.",
-            "price": "Precio a definir"
+            "price": "30.000"
         }
     ],
     "menu_infantil": [
@@ -24,7 +24,7 @@
             "id": 4,
             "title": "Chicken Tender",
             "desc": "Lazos de pollo apanados acompañados de salsa de tomate y papas a la francesa.",
-            "price": "Precio a definir"
+            "price": "16.000"
         }
     ]
 }

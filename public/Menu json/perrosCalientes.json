@@ -2,63 +2,63 @@
     "perros_calientes": [
         {
             "id": 1,
-            "title": "Clásico Perro",
+            "title": "Sencillo",
             "desc": "Pan perro tradicional, salchicha especial, salsa de la casa, lechuga, queso costeño, papita chongo (normal o a la plancha).",
-            "price": "Precio a definir"
+            "price": "6.500"
         },
         {
             "id": 2,
-            "title": "Los Mellos",
+            "title": "El Mello",
             "desc": "Pan perro tradicional, 2 salchichas especiales, lechuga, queso costeño, salsa de la casa, queso mozzarella.",
-            "price": "Precio a definir"
+            "price": "10.000"
         },
         {
             "id": 3,
             "title": "Hawaiano",
             "desc": "Pan perro tradicional, 2 salchichas especiales, tocino ahumado, cuadritos de piña caramelizadas, queso mozzarella, queso costeño, salsa de la casa, lechuga.",
-            "price": "Precio a definir"
+            "price": "12.000"
         },
         {
             "id": 4,
             "title": "Italiano",
             "desc": "Pan perro tradicional, salchicha americana, queso mozzarella, salami, tocino, lechuga, salsa de la casa.",
-            "price": "Precio a definir"
+            "price": "14.000"
         },
         {
             "id": 5,
             "title": "Suizo",
             "desc": "Pan perro tradicional, salchicha suiza, queso mozzarella, queso americano, papita chongo, jamón.",
-            "price": "Precio a definir"
+            "price": "17.000"
         },
         {
             "id": 6,
             "title": "Alemán",
             "desc": "Pan perro super, salchicha alemana, pico de gallo, guacamole, tocino, queso mozzarella.",
-            "price": "Precio a definir"
+            "price": "14.000"
         },
         {
             "id": 7,
             "title": "Polli Perro",
             "desc": "Pan perro super, 125 gr de pechuga, lechuga, papita chongo, chimichurri de la casa, queso costeño, queso mozzarella.",
-            "price": "Precio a definir"
+            "price": "19.900"
         },
         {
             "id": 8,
             "title": "Perro Combinado",
-            "desc": "Pan perro tradicional, 100 gr de pollo, 100 gr de carne, 1 chorizo, 1 butifarra, salsa de la casa, queso costeño, papita chongo, chimichurri de la casa.",
-            "price": "Precio a definir"
+            "desc": "Pan perro tradicional, 60 gr de pollo, 60 gr de carne, 1 chorizo, 1 butifarra, salsa de la casa, queso costeño, papita chongo, chimichurri de la casa.",
+            "price": "19.900"
         },
         {
             "id": 9,
             "title": "Chorriperro",
             "desc": "Pan perro tradicional, 2 chorizos antioqueños, salsa de la casa, lechuga, queso costeño, papita chongo, queso mozzarella.",
-            "price": "Precio a definir"
+            "price": "15.000"
         },
         {
             "id": 10,
             "title": "Butiperro",
             "desc": "Pan perro tradicional, 2 butifarras, salsa de la casa, lechuga, queso costeño, papita chongo, queso mozzarella.",
-            "price": "Precio a definir"
+            "price": "15.000"
         }
     ]
 }

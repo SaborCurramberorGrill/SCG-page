@@ -7,6 +7,10 @@ export function Header() {
           className="logo"
           alt="logo"
         />
+        <div>
+          <p className="pc">Lunes a Domingo</p>
+          <p className="pc">4pm a 11pm</p>
+        </div>
       </div>
 
       <div className="nav">
@@ -44,6 +48,7 @@ export function Header() {
             src="instagram.png"
             alt=""
           />
+          <p>@saborcurramberogrill</p>
         </a>
       </div>
       <div></div>

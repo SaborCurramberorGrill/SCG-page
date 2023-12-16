@@ -3,22 +3,22 @@
         {
             "id": 1,
             "title": "Limonada de Coco",
-            "price": 8000
+            "price": "11.000"
         },
         {
             "id": 2,
             "title": "Limonada Cerezada",
-            "price": 7500
+            "price": "12.000"
         },
         {
             "id": 3,
             "title": "Limonada de Yerbahuena",
-            "price": 7000
+            "price": "15.000"
         },
         {
             "id": 4,
             "title": "Limonada Natural",
-            "price": 6500
+            "price": "9.000"
         }
     ],
     "cocteles": [
@@ -32,7 +32,7 @@
                 "Jugo de Naranja, ",
                 "Granadina."
             ],
-            "price": 12000
+            "price": "24.000"
         },
         {
             "id": 6,
@@ -43,7 +43,7 @@
                 "Jugo de Limón, ",
                 "Sirope de Azúcar."
             ],
-            "price": 10000
+            "price": "27.000"
         },
         {
             "id": 7,
@@ -55,7 +55,7 @@
                 "Jugo de Limón, ",
                 "Jugo de Arándano."
             ],
-            "price": 11000
+            "price": "22.000"
         },
         {
             "id": 8,
@@ -67,7 +67,7 @@
                 "Crema Doble, ",
                 "Ron con Coco."
             ],
-            "price": 9500
+            "price": "27.000"
         },
         {
             "id": 9,
@@ -78,59 +78,59 @@
                 "Jugo de Limón, ",
                 "Sirope de Almendras."
             ],
-            "price": 10500
+            "price": "20.000"
         }
     ],
     "bebidas": [
         {
-            "id": 10,
-            "title": "Aguila Negra",
-            "price": 5000
-        },
-        {
-            "id": 11,
-            "title": "Aguila Light",
-            "price": 4500
-        },
-        {
-            "id": 12,
-            "title": "Corona",
-            "price": 6000
-        },
-        {
-            "id": 13,
-            "title": "Stella",
-            "price": 5500
-        },
-        {
-            "id": 14,
-            "title": "Heineken",
-            "price": 6500
-        },
-        {
             "id": 15,
-            "title": "Coca-Cola",
-            "price": 3000
+            "title": "Coca-Cola 400ml",
+            "price": "4.000"
+        },
+        {
+            "id": 20,
+            "title": "Coca-Cola 1lt",
+            "price": "8.000"
         },
         {
             "id": 16,
+            "title": "Postobon 400ml",
+            "price": "4.000"
+        },
+        {
+            "id": 21,
             "title": "Postobon",
-            "price": 2500
+            "price": "8.000"
         },
         {
             "id": 17,
             "title": "Hatsu",
-            "price": 2800
+            "price": "7.000"
         },
         {
-            "id": 18,
-            "title": "Cuatro",
-            "price": 2700
+            "id": 10,
+            "title": "Aguila Negra",
+            "price": "5000"
         },
         {
-            "id": 19,
-            "title": "Sprite",
-            "price": 3200
+            "id": 11,
+            "title": "Aguila Light",
+            "price": "4500"
+        },
+        {
+            "id": 12,
+            "title": "Corona",
+            "price": "6000"
+        },
+        {
+            "id": 13,
+            "title": "Stella",
+            "price": "5500"
+        },
+        {
+            "id": 14,
+            "title": "Heineken",
+            "price": "6500"
         }
     ]
 }

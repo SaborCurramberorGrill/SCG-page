@@ -24,6 +24,15 @@ section {
   margin: 1rem 0;
 }
 
+.encabezado p {
+  font-size: 1.5em;
+  text-align: center;
+  margin-top: 0;
+  margin-bottom: 1rem;
+  color: var(--verde);
+  font-weight: bold;
+}
+
 .encabezado img {
   aspect-ratio: 1/1;
   width: 200px;

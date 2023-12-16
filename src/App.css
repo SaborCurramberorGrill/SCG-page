@@ -16,6 +16,32 @@
   align-items: center;
   color: #fff;
   background-color: rgba(12, 12, 12, 0.8);
+  gap: 0.5rem;
+}
+
+.Redes {
+  color: var(--amarillo);
+}
+
+.logo-container {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+}
+.logo-container div {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+.pc {
+  display: flex;
+  margin: 0;
+  color: var(--verde);
+  font-size: 1rem;
+  font-style: italic;
+  font-weight: bold;
 }
 
 .logo {
@@ -33,6 +59,12 @@
   font-size: large;
   font-weight: bold;
   text-decoration: none;
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+}
+.nav a p {
+  margin: 0;
 }
 
 .nav a:hover {
@@ -76,9 +108,23 @@
   .nav {
     width: 100%;
   }
+  .nav a {
+    flex-direction: column;
+  }
+
+  .nav a p {
+    font-size: 0.7rem;
+    margin: 0;
+  }
 
   .flot {
     top: 93%;
     left: 90%;
+  }
+
+  .Redes {
+    position: fixed;
+    top: 15%;
+    left: 8%;
   }
 }
