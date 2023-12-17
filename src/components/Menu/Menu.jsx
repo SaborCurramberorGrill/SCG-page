@@ -88,6 +88,27 @@ export function Menu() {
     fetchData();
   }, []);
 
+  //desgranados
+  const [desgranados, setDesgranados] = useState([]);
+  useEffect(() => {
+    const fetchData = async () => {
+      try {
+        const response = await fetch('Menu json/desgranados.json');
+
+        if (!response.ok) {
+          throw new Error('Error al cargar el JSON');
+        }
+
+        const data = await response.json();
+        setDesgranados(data.desgranados);
+      } catch (error) {
+        console.error('Error:', error);
+      }
+    };
+
+    fetchData();
+  }, []);
+
   // Asados y Parrillas
   const [asados, setAsados] = useState([]);
   const [parrillas, setParrillas] = useState([]);
@@ -238,6 +259,20 @@ export function Menu() {
               title={perroCaliente.title}
               desc={perroCaliente.desc}
               price={perroCaliente.price}
+            />
+          ))}
+        </Seccion>
+
+        <Seccion
+          title="Desgranados"
+          img={'Portadas secciones/Desgranados.webp'}
+        >
+          {desgranados.map((desgranado) => (
+            <Producto
+              key={desgranado.id}
+              title={desgranado.title}
+              desc={desgranado.desc}
+              price={desgranado.price}
             />
           ))}
         </Seccion>
