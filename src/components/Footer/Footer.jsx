@@ -6,13 +6,6 @@ export function Footer() {
     <footer>
       <div className="container-footer">
         <div className="footer">
-          <div className="footer__logo">
-            <img
-              src="/SCG-page/logo.webp"
-              className="logo"
-              alt="logo"
-            />
-          </div>
           <div className="footer__info">
             <h3>Información</h3>
             <p>
