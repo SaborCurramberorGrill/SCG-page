@@ -4,31 +4,31 @@
             "id": 1,
             "title": "Pollo",
             "desc": "Pollo, base de papa chongo, bollo o maiz, salsa de la casa y piña.",
-            "price": "9.000"
+            "price": "20.000"
         },
         {
             "id": 2,
             "title": "Carne",
             "desc": "Carne, base de papa chongo, bollo o maiz, salsa de la casa y piña.",
-            "price": "13.000"
+            "price": "20.000"
         },
         {
             "id": 3,
             "title": "Mixto",
             "desc": "Carne y Pollo, base de papa chongo, bollo o maiz, salsa de la casa y piña.",
-            "price": "8.000"
+            "price": "20.000"
         },
         {
             "id": 4,
             "title": "Combinado",
             "desc": "base de papa chongo, bollo o maiz, salsa de la casa y piña",
-            "price": "8.000"
+            "price": "20.000"
         },
         {
             "id": 5,
             "title": "Chorizo y Butifarra",
             "desc": "Chorizo, butifarra, base de papa chongo, bollo o maiz, salsa de la casa y piña",
-            "price": "11.800"
+            "price": "20.000"
         }
     ]
 }

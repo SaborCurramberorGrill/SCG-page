@@ -1,9 +1,12 @@
+import React from 'react';
+import { Link } from 'react-router-dom';
+
 export function Header() {
   return (
     <header className="header">
       <div className="logo-container">
         <img
-          src="logo.webp"
+          src="/SCG-page/logo.webp"
           className="logo"
           alt="logo"
         />
@@ -14,12 +17,12 @@ export function Header() {
       </div>
 
       <div className="nav">
-        <a
-          href="#"
+        <Link
+          to="/SCG-page/"
           className="nav-link"
         >
           Inicio
-        </a>
+        </Link>
 
         <a
           href="https://wa.link/rb5j56"
@@ -34,7 +37,7 @@ export function Header() {
         >
           <img
             className="icono"
-            src="facebook.png"
+            src="/SCG-page/facebook.png"
             alt=""
           />
         </a>
@@ -45,7 +48,7 @@ export function Header() {
         >
           <img
             className="icono"
-            src="instagram.png"
+            src="/SCG-page/instagram.png"
             alt=""
           />
           <p>@saborcurramberogrill</p>

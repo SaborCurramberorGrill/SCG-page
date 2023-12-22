@@ -2,50 +2,50 @@
     "hamburguesas": [
         {
             "id": 1,
-            "title": "Hamburguesa La Currambera",
-            "desc": "Pan brioche sellado en mantequilla de ajo, lechuga crespa, tomate, cebolla grille con tocineta, queso asado, 125 gr de carne molida, 2 lonjas de salami ahumado.",
+            "title": "La Currambera",
+            "desc": "125gr de carne de res, tocineta, cebolla grille,queso costeño asado, pan brioche sellado en mantequilla de ajo, lechuga crespa, tomate.",
             "price": "18.000"
         },
         {
             "id": 2,
-            "title": "Hamburguesa Caribeña",
-            "desc": "Pan brioche sellado en mantequilla de ajo, tomate, lechuga crespa, cebolla grille, salsa de cocada, 125 gr de carne molida, salsa de la casa y mermelada de tocineta.",
+            "title": "la Caribeña",
+            "desc": "125gr de carne de res, mermelada de cocada con tocino ahumado, queso costeño asado, pan brioche sellado en mantequilla de ajo, salsa de la casa, lechuga crespa, tomate.",
             "price": "17.000"
         },
         {
             "id": 3,
-            "title": "Hamburguesa Mr. Lucho",
-            "desc": "Pan brioche sellado en mantequilla de ajo, lechuga, tomate, queso mozzarella, queso americano, tocineta, mermelada de tocineta, salsa BBQ, miel y salsa de la casa, 125 gr de carne.",
+            "title": "Mr. Lucho",
+            "desc": "125gr de carne de res, queso mozzarella, queso americano, tocino ahumado y cebolla caramelizada, pan brioche sellado en mantequilla de ajo, salsa BBQ, salsa de la casa, lechuga crespa, tomate. ",
             "price": "25.000"
         },
         {
             "id": 4,
-            "title": "Hamburguesa La Básica",
-            "desc": "Pan brioche sellado en mantequilla de ajo, lechuga crespa, tomate, cebolla grille con tocineta, queso asado, 125 gr de pollo, 2 lonjas de salami ahumado y mermelada de tocineta.",
+            "title": "La Clasica",
+            "desc": "125gr de pollo apanado, queso mozzarella, queso americano, cebolla grille, tocineta, pan brioche sellado en mantequilla de ajo, salsa BBQ, salsa de la casa, lechuga crespa, tomate.",
             "price": "22.000"
         },
         {
             "id": 5,
-            "title": "Hamburguesa La Cambambera",
-            "desc": "Pan brioche sellado en mantequilla de ajo, tomate, lechuga crespa, cebolla grille, salsa de cocada, 125 gr de pollo, salsa de la casa y queso americano .",
+            "title": "La Cambambera",
+            "desc": "125gr de pollo apanado, queso americano, tocineta, cebolla, pan brioche sellado en mantequilla de ajo, salsa de la casa, piña de la casa, lechuga crespa, tomate.",
             "price": "17.400"
         },
         {
             "id": 6,
-            "title": "Hamburguesa Chicken Swift",
-            "desc": "Pan brioche sellado en mantequilla de ajo, lechuga, tomate, queso mozzarella, queso americano, tocineta, salsa BBQ, miel y salsa de la casa, 125 gr de pollo.",
+            "title": "Chicken Swift",
+            "desc": "125gr de pollo apanado, queso americano, queso mozzarella, mermelada de cocada con tocino ahumado, pan brioche sellado en mantequilla de ajo, salsa BBQ, salsa de la casa, lechuga crespa, tomate.",
             "price": "17.400"
         },
         {
             "id": 7,
-            "title": "Hamburguesa Doble Beacon",
-            "desc": "Pan brioche sellado en mantequilla de ajo, 250 gr de carne, 2 lonjas de tocineta, cebolla grillada, queso mozzarella y queso americano.",
+            "title": "Doble Beacon",
+            "desc": "2 carnes de 125gr, doble queso, tocino ahumado, cebolla grille, pan brioche sellado en mantequilla de ajo, salsa de la casa, lechuga crespa, tomate",
             "price": "27.800"
         },
         {
             "id": 8,
             "title": "Choriburger",
-            "desc": "Pan brioche sellado en mantequilla de ajo, lechuga crespa, tomate, queso americano, 125 gr de carne, 1 chorizo santandereano, salsa de la casa.",
+            "desc": "125gr de carne de res, tocino ahumado, queso costeño asado, chorizo artesanal, pan brioche sellado en mantequilla de ajo, salsa de la casa, lechuga crespa, tomate.",
             "price": "19.900"
         }
     ]

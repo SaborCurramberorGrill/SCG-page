@@ -1,0 +1,28 @@
+.card {
+  width: 100%;
+  border-radius: 1rem;
+  background-color: black;
+  cursor: pointer;
+  transition: all 0.3s ease-in-out;
+  text-decoration: none;
+  border: 3px solid var(--amarillo);
+  box-shadow: 0 0 1rem rgba(255, 0, 0, 0.2);
+}
+
+.card:hover {
+  transform: scale(1.05);
+}
+#title-card {
+  color: var(--amarillo);
+  text-decoration: none;
+  font-size: 1.5rem;
+  margin: 1rem 0;
+}
+
+.card img {
+  width: 100%;
+  aspect-ratio: 1/1;
+  object-fit: cover;
+  object-position: center;
+  border-radius: 5px;
+}

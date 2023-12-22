@@ -3,37 +3,37 @@
         {
             "id": 1,
             "title": "Canastas Crocantes de Patacón Verde",
-            "desc": "Canastillas rellenas de pollo parrillado acompañadas de guacamole fresco y queso crema de chef.",
+            "desc": "Canastas rellenas de pollo parrillado acompañadas de guacamole fresco y queso crema de chef.",
             "price": "9.000"
         },
         {
             "id": 2,
             "title": "Maduro Currumberro",
-            "desc": "Maduro relleno de una mezcla de cuatro quesos con tocino ahumado y cebollín.",
+            "desc": "Maduro relleno de tocino ahumado cubierto con queso cheddar, queso costeño decorado con diamantes de cebollin.",
             "price": "13.000"
         },
         {
             "id": 3,
             "title": "Picada Currumbera",
-            "desc": "Chorizo de cerdo acompañado de bollo y aderezo de chimichurri.",
+            "desc": "Chorizo de cerdo con chimichurri de la casa acompañado con bollo y queso costeño.",
             "price": "8.000"
         },
         {
             "id": 4,
             "title": "Francesas Curramberas",
-            "desc": "Papas a la francesa acompañadas de tocino ahumado cubiertas con queso cheddar y cebollín espolvoreado.",
+            "desc": "Papas a la francesa acompañadas de tocino ahumado cubiertas con queso cheddar y diamantes de cebollin.",
             "price": "8.000"
         },
         {
             "id": 5,
             "title": "Mini Brocheta",
-            "desc": "3 opciones a elegir entre pollo, carne, mixto o combinado, acompañados de chimichurri de la casa.",
+            "desc": "Pincho con tres opciones a eligir: pollo, carne o mixto acompañados con chimichurri de la casa y bollo de limpio.",
             "price": "11.800"
         },
         {
             "id": 6,
-            "title": "Palito Currumbero de Queso",
-            "desc": "4 palitos de queso apanados acompañados de salsa de la casa.",
+            "title": "Palitos Currumberos de Queso",
+            "desc": "4 Deleciosos palitos de queso apanados acompañados con salsa de la casa.",
             "price": "8.700"
         }
     ]

@@ -1,5 +1,12 @@
+.container-menu {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  grid-gap: 2rem;
+  padding: 0 4rem;
+}
+
 @media (width < 768px) {
-  main {
-    padding-top: 6rem;
+  .container-menu {
+    padding: 0 2rem;
   }
 }
